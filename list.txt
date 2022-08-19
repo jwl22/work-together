@@ -1,0 +1,9 @@
+Project/
+    title       프로젝트 제목
+    work_list   할 일 리스트
+    date        작성일
+
+Collaborator/
+    project     프로젝트 연결용
+    comment     남길 내용
+    date        작성일
